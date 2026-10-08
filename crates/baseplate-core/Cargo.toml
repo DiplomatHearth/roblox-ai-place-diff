@@ -1,0 +1,8 @@
+[package]
+name = "baseplate-core"
+description = "Place diffs and turn records for the Baseplate agent"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true

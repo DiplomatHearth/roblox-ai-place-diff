@@ -1,0 +1,15 @@
+[package]
+name = "baseplate-cli"
+description = "The baseplate command: an AI agent that builds in Roblox Studio"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[[bin]]
+name = "baseplate"
+path = "src/main.rs"
+
+[dependencies]
+baseplate-core = { path = "../baseplate-core" }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+<linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3d78ff"/><stop offset="1" stop-color="#2860f2"/></linearGradient>
+<linearGradient id="stud" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5c93ff"/><stop offset="1" stop-color="#3a72ff"/></linearGradient>
+</defs>
+<rect x="61.44" y="61.44" width="901.12" height="901.12" rx="235.52" fill="url(#tile)"/>
+<rect x="69.632" y="69.632" width="884.736" height="884.736" rx="227.328" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="12.288"/>
+<ellipse cx="355.32800000000003" cy="377.856" rx="138.44480000000001" ry="135.7824" fill="#1a43b5" opacity="0.9"/>
+<circle cx="343.04" cy="343.04" r="133.12" fill="url(#stud)"/>
+<path d="M 247.1936 319.07840000000004 A 98.50880000000001 98.50880000000001 0 0 1 367.0016 247.1936" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="16.384" stroke-linecap="round"/><ellipse cx="693.248" cy="377.856" rx="138.44480000000001" ry="135.7824" fill="#1a43b5" opacity="0.9"/>
+<circle cx="680.96" cy="343.04" r="133.12" fill="url(#stud)"/>
+<path d="M 585.1136 319.07840000000004 A 98.50880000000001 98.50880000000001 0 0 1 704.9216 247.1936" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="16.384" stroke-linecap="round"/><ellipse cx="355.32800000000003" cy="715.7760000000001" rx="138.44480000000001" ry="135.7824" fill="#1a43b5" opacity="0.9"/>
+<circle cx="343.04" cy="680.96" r="133.12" fill="url(#stud)"/>
+<path d="M 247.1936 656.9984000000001 A 98.50880000000001 98.50880000000001 0 0 1 367.0016 585.1136" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="16.384" stroke-linecap="round"/><ellipse cx="693.248" cy="715.7760000000001" rx="138.44480000000001" ry="135.7824" fill="#1a43b5" opacity="0.9"/>
+<circle cx="680.96" cy="680.96" r="133.12" fill="url(#stud)"/>
+<path d="M 585.1136 656.9984000000001 A 98.50880000000001 98.50880000000001 0 0 1 704.9216 585.1136" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="16.384" stroke-linecap="round"/>
+</svg>

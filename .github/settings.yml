@@ -1,0 +1,8 @@
+# The GitHub "About" box. The Settings app (github.com/apps/settings) applies this
+# on every push; without it, copy the description and topics in by hand.
+# Upload .github/social-preview.png in Settings -> General -> Social preview.
+repository:
+  name: roblox-ai-place-diff
+  description: "Vibe-code Roblox games from your terminal. Baseplate builds parts, UI and Luau scripts in Roblox Studio, playtests them and fixes the errors. Diff before changes, rewind any turn. Free with a local model, or any API key. Open source."
+  topics: roblox, roblox-studio, roblox-ai, roblox-plugin, roblox-development, luau, ai-agent, coding-agent, cursor-alternative, claude-code, mcp, rojo, vibe-coding, game-development, ai-game-builder, ollama, cli, terminal, free, rust
+  has_wiki: false

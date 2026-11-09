@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#install"><img src="https://img.shields.io/badge/release-v1.5.6-2f6bff?style=flat-square" alt="Release v1.5.6"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/release-v1.5.11-2f6bff?style=flat-square" alt="Release v1.5.11"></a>
   <img src="https://img.shields.io/badge/Windows%2010%2F11-portable-24252a?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Windows 10/11, portable">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1f8a4c?style=flat-square" alt="MIT license"></a>
   <img src="https://img.shields.io/badge/price-free-1f8a4c?style=flat-square" alt="Price: free">

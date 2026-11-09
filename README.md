@@ -57,7 +57,7 @@ Most AI tools for Roblox write a script, say "done" and leave the bugs to you. *
 
 | Download | For |
 |---|---|
-| [`Diff-1.5.8-portable-x64.exe`](https://github.com/DiplomatHearth/roblox-ai-place-diff/releases/latest/download/Diff-1.5.8-portable-x64.exe) | Windows 10 and 11, one file |
+| [`Diff.exe`](https://github.com/DiplomatHearth/roblox-ai-place-diff/releases/download/v1.5.11/Diff.exe) | Windows 10 and 11, one file |
 
 Download and start the exe. No installer, no admin rights.
 
